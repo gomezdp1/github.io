@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head> 
+        <title>Use Conditions</title>
+        <link rel="stylesheet" href="styles.css">
+        
+    </head>
+
+    <body>
+        <div class="grid-container">
+             <div class="grid-item">
+                <header id="welcome">  
+                    <i class="fas fa-ship"></i>
+                    WWW.IRISHWRECKONLINE.NET
+                </header>
+                <p id="p">
+                 a diver's guide to the ship wrecks around Ireland
+                </p>
+            </div>
+            <div class="page2">
+                <h1>CONDITIONS OF USE</h1>
+                <p>The information contained within this award winning Web Site is specifically designed as 
+                    a guide for recreational divers and is totally free. It is as accurate as possible at the 
+                    time of publication, but should not be construed as an invitation to dive any particular 
+                    wreck. If you undertake to dive any wreck(s) it is assumed that-
+                    <ul>
+                    <li>
+                        (i) you are suitably trained to do so, 
+                    </li>
+                    <li>
+                        (ii) you have permission from the owner, 
+                    </li>
+                    <li>
+                        (iii) you will abide by the laws of wreck ownership, and those of salvage, within the 
+                        country whose coastal waters the wreck resides. No liability will be accepted for any 
+                        loss, accident or subsequent prosecution resulting from the use / misuse of the 
+                        information or advice contained within these pages. Reproduction of any part of this 
+                        site in any form, other than for your own use, will result in immediate prosecution under 
+                        the laws of Copyright of the country in which you reside.
+                    </li>  
+                    </ul>
+                <p>
+                    You may link this site to your own website, but please, only via the the address below:
+                </p>
+                <h1 id="link">
+                    http://www.irishwrecksonline.net/index/
+                </h1>
+                <p>
+                 compiled by: RANDAL ARMSTRONG
+                </p>
+            </div>
+    </body>
