@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head> 
+        <title>Irish Shipwrecks</title>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+        
+    </head>
+
+    <body>
+        <div class="grid-container">
+             <div class="grid-item">
+                <header id="welcome">  
+                    <i class="fas fa-ship"></i>
+                    WELCOME TO WWW.IRISHWRECKONLINE.NET
+                </header>
+                <p id="p">
+                 a diver's guide to the ship wrecks around Ireland
+                </p>
+    
+            </div>
+            <div class="grid-item1">
+              <div class= "midflex">
+                <div class="miditem">
+                  <i class="fas fa-fish"></i>
+                  <h1 class="awards">
+                    Gold Site Maritime Web Award 
+                  </h1>
+              
+                 
+                <button class="button">learn more</button>
+
+                </div>
+                <div class="miditem">
+                  <i class="fas fa-dove"></i>
+                  <h1 class="awards">
+                    Webmaster's Choice World Class Website 
+                  </h1>
+               
+                 
+                  <button class="button">learn more</button>
+
+                </div>
+                <div class="miditem">
+                  <i class="fas fa-feather-alt"></i>
+                  
+                  <h1 class="awards">
+                    Lagoon View Yacht Club Award of Merit 
+                  </h1>
+                 
+                 
+                  <button class="button">learn more</button>
+
+                </div>
+              </div>
+
+            </div>
+     <div class="grid-item2">
+                <div class="container">
+                    <div class="container-item">
+                        <footer>
+                            <button class="button" onclick="window.location.href = 'page2.html';">Click Here for Use Conditions</button>
+                        </footer>
+               
+            </div>         
+            </div>
+    </body>
+    </html>
+
+
